@@ -11,7 +11,6 @@ input
 
 output
 
-<img src="D:\0_myfile\Graduate_grad1\课程\图论\课程设计\程序运行图4_简单图.png" style="zoom:50%;" /> 
-
+<img src="https://github.com/SunHaixin0324/simple-graph-judgment/blob/main/result1.png" style="zoom:50%;" /> 
 
 
